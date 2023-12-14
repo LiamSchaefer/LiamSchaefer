@@ -34,8 +34,8 @@
 <br>
 <br>
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /></p>
+<div align="left">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /></p>
 </div>
 <div>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=liamschaefer&theme=dark" alt="liamschaefer" /></p>
