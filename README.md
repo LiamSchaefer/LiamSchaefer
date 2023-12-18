@@ -34,10 +34,11 @@
 
 <br>
 <br>
-
-<p float="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=liamschaefer&theme=dark" alt="liamschaefer" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=3d76d1&bg_color=363b3f&locale=en" alt="liamschaefer" /></p>
+--- | ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=liamschaefer&theme=dark" alt="liamschaefer" />
+<!-- <p float="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /></p>
+<p float="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liamschaefer&theme=dark" alt="liamschaefer" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=3d76d1&bg_color=363b3f&locale=en" alt="liamschaefer" /></p> -->
 
 
 
