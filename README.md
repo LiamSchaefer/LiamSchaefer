@@ -21,8 +21,6 @@
 
 - 💬 Ask me about **React, JavaScript/TypeScript, CSS/HTML, Java**
 
-- 📫 How to reach me **luca.schaefer98@gmx.de**
-
 - 📄 Know about my experiences [portfolio coming soon!](portfolio coming soon!)
 
 <br>
