@@ -29,17 +29,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,jquery,java,cs,dotnet&perline=10)](https://skillicons.dev)
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Frameworks/Libs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,js,ts,css,html,jquery,java,cs,dotnet,figma,git,gitlab,azure,idea,mysql,mongodb,ps,rider,visualstudio,vscode,spring,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,spring,hibernate&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,js,ts,css,html,jquery,java,cs,dotnet,figma,git,gitlab,azure,idea,mysql,mongodb,ps,rider,visualstudio,vscode,spring,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-<h3 align="left">Frameworks/Libs:</h3>
+<h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,js,ts,css,html,jquery,java,cs,dotnet,figma,git,gitlab,azure,idea,mysql,mongodb,ps,rider,visualstudio,vscode,spring,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,azure,idea,ps,rider,visualstudio,vscode&perline=10)](https://skillicons.dev)
+
+
 
 
 
