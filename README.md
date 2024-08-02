@@ -41,9 +41,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,azure,idea,ps,rider,visualstudio,vscode&perline=10)](https://skillicons.dev)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liamschaefer&theme=dark" alt="liamschaefer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamschaefer&show_icons=true&theme=onedark&title_color=ffffff&text_color=25d050&bg_color=363f3e&cache_seconds=1801&locale=en&layout=compact" alt="liamschaefer" /></p>
+
 
 
 
