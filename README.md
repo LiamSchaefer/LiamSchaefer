@@ -33,13 +33,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,spring,hibernate&perline=10)](https://skillicons.dev)
 
-<h3 align="left">Databases:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
 <h3 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,azure,idea,ps,rider,visualstudio,vscode&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Databases:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 
 
