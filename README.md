@@ -1,11 +1,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamschaefer&label=Profile%20views&color=0e75b6&style=flat" alt="liamschaefer" /> </p>
 <div>
-<h1 align="center">Hi 👋, I'm Luca Liam</h1>
-<h3 align="center">A passionated Web Frontend Developer from Germany 💻</h3>
-<h4 align="center">I'm also interested about UI/UX Design Topics and enjoing digital arts 🎨 <br></h4> 
-<h4 align="center">In my free time i like to photograph and edit pictures 📷<br></h4> 
-<h3 align="center"> You can excite me for any topic that combines creativity and technical aspects 🤩</h3>
+<h1 align="left">Hi 👋, I'm Luca Liam</h1>
+<h3 align="left">A passionated Web Frontend Developer from Germany 💻</h3>
+<h4 align="left">I'm also interested about UI/UX Design Topics and enjoing digital arts 🎨 <br></h4> 
+<h4 align="left">In my free time i like to photograph and edit pictures 📷<br></h4> 
+<h3 align="left"> You can excite me for any topic that combines creativity and technical aspects 🤩</h3>
 </div>
 
 
@@ -22,6 +22,7 @@
 
 - 👨‍💻 My portfolio: [luca-schaefer.com](https://luca-schaefer.com)
 
+<br>
 <br>
 
 <h3 align="left">Languages:</h3>
