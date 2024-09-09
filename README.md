@@ -13,15 +13,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **my portfolio site**
+- 🔭 I’m currently working on **a recipe web app**
 
 - 🌱 I’m currently learning **more about React, RazorViews, ASP.NetCore and enhance my knowledge at different frameworks**
 
-- 👨‍💻 All of my projects are available at [portfolio coming soon!](portfolio coming soon!)
-
-- 💬 Ask me about **React, JavaScript/TypeScript, CSS/HTML, Java**
-
-- 📷 My photography portfolio: [luca-liam-photography.de](https://luca-liam-photography.de/)
+- 📷 My portfolio: [luca-schaefer.com](https://luca-schaefer.com)
 
 <br>
 
