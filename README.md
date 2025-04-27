@@ -16,7 +16,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **a recipe web app**
+- 🔭 I’m currently working on **a finance tracking app called FineCheck**
 
 - 🌱 I’m currently learning **more about React and enhance my knowledge at different frameworks**
 
