@@ -20,8 +20,6 @@
 
 - 🌱 I’m currently learning **more about React and enhance my knowledge at different frameworks**
 
-- 👨‍💻 My portfolio: [luca-schaefer.com](https://luca-schaefer.com)
-
 <br>
 <br>
 
