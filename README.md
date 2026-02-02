@@ -25,11 +25,11 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,sass,html,jquery,java,cs,dotnet&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,sass,html,jquery,py,cs,dotnet&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Frameworks/Libs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,spring,hibernate&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind,bootstrap,&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
