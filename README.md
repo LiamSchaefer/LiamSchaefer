@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **a twitter (X) tweets trend analyzer**
 
-- 🌱 I’m currently learning **Python and Next and enhance my knowledge at different JS frameworks**
+- 🌱 I’m currently learning **Python, Next and enhance my knowledge at different JS frameworks**
 
 <br>
 <br>
