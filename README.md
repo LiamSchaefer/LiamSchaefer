@@ -16,9 +16,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **a finance tracking app called FineCheck**
+- 🔭 I’m currently working on **a twitter (X) tweets trend analyzer**
 
-- 🌱 I’m currently learning **more about React and enhance my knowledge at different frameworks**
+- 🌱 I’m currently learning **Python and Next and enhance my knowledge at different JS frameworks**
 
 <br>
 <br>
